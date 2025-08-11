@@ -1,0 +1,3 @@
+running simple django project with uv as project manager
+
+SEE: https://blog.pecar.me/uv-with-django#using-uv-to-create-a-new-django-project
